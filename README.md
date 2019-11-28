@@ -27,16 +27,15 @@ For the purposes of this project, I defined the following information regarding 
     - April 1996 - April 2018
     - 14723 unique zip codes in the USA
 - **Models and Tests Used:**
-    - ARIMA Models
-    - XX
-    - XX
+    - ARIMA Modeling and Forecasting
+    - Stationarity Checks
+    - Seasonal Decomposition
 - **Approach (Using the CRISP-DM framework):**
     - Establish initial Business Understanding
     - Conduct additional research related to Business Understanding
     - Obtain data
     - Select subset of data based off of business understanding
     - Update business understanding based off of data understanding and initial exploration
-    - Clean round 1 of data
     - De-trend and control for stationarity assumption
     - Model
     - Forecast
